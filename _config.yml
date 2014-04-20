@@ -1,6 +1,0 @@
-pygments: true
-domain: remotedebug.org
-source:      ./
-destination: ./_site
-lessc: /Users/auchenberg/.rvm/gems/ruby-1.9.3-p194/bin/lessc
-exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
